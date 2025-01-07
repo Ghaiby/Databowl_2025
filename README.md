@@ -7,6 +7,7 @@ Data:
 
 Images: 
   - contains all images and gifs used in the submission report
+
 Notebooks:
 - DataAnalysisDefense.ipynb: Script for obtaining the most common audible plays and other audible insights for defenses 
 - DataAnalysisOffense.ipynb: Script for obtaining the Audible effectiveness and other audible insights for offenses
